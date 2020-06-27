@@ -1,4 +1,4 @@
-public class TheGrandestStaircaseOfThemAllPart
+public class TheGrandestStaircaseOfThemAll
 {
 	public static void main(String[] args)
 	{
